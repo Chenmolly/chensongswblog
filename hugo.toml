@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'Chen Song'
 
 
-Theme= 'archie-chen'
+Theme= 'archie'
 
 copyright = "© Chen Song"
 pygmentsstyle = "monokai"
